@@ -1,13 +1,13 @@
 # face_detection
 
-Retinaface
+- Retinaface
 
-SSH
+- SSH
 
-OpenCV’s DNN: SSD
+- OpenCV’s DNN: SSD
 
-dlib’s MMOD CNN face detector
+- dlib’s MMOD CNN face detector
 
-MTCNN
+- MTCNN
 
-dlib's HOG + Linear SVM face detecto
+- dlib's HOG + Linear SVM face detecto
